@@ -1,5 +1,3 @@
-package IA;
-
 /**
  * @author Daniel Hernandez Sanchezverin
  * 
