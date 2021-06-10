@@ -11,8 +11,8 @@
  */
 public class JarrasDeAgua {
 	public static void main(String[] args) {
-		int x = 0; // jarras de 4G
-		int y = 0; // jarras de 3G
+		int x = 0; // jarra de 4G
+		int y = 0; // jarra de 3G
 		int n;
 		int cantidadMov = 0;
 		boolean continuar;
